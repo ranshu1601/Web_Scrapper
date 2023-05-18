@@ -26,7 +26,7 @@ function About() {
                     </div>
                     <div className="team-content">
                         <div className="box">
-                            <img src={img1} alt='Person'/>
+                            <img src={img1} alt='Person' />
                             <h3>Niketan Swami</h3>
                             <h5>Full Stack Developer</h5>
                             <div className="icons">
@@ -46,7 +46,7 @@ function About() {
                             </div>
                         </div>
                         <div className="box">
-                            <img src={img3} alt='Person'/>
+                            <img src={img3} alt='Person' />
                             <h3>Bhuwanesh Choudhary</h3>
                             <h5>E sala cup namde</h5>
                             <div className="icons">
@@ -56,13 +56,13 @@ function About() {
                             </div>
                         </div>
                         <div className="box">
-                            <img src={img4} alt='Person'/>
+                            <img src={img4} alt='Person' />
                             <h3>Anshu Ranjan</h3>
                             <h5>CR and Tomperr</h5>
                             <div className="icons">
-                                <a href="#"><i className="ri-github-fill" /></a>
-                                <a href="#"><i className="ri-linkedin-fill" /></a>
-                                <a href="#"><i className="ri-instagram-fill" /></a>
+                                <a href="https://github.com/ranshu1601"><i className="ri-github-fill" /></a>
+                                <a href="https://www.linkedin.com/in/anshuranjann/"><i className="ri-linkedin-fill" /></a>
+                                <a href="https://www.instagram.com/__periple__/"><i className="ri-instagram-fill" /></a>
                             </div>
                         </div>
                     </div>

@@ -11,7 +11,7 @@ function Footer() {
                     <div className="row gy-4 gx-5">
                         <div className="col-lg-6 col-md-6">
                             <h5 className="h1 text-white">Scrapify</h5>
-                            <p className="small text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.</p>
+                            <p className="small text-muted">Unleash the Power of Data with Seamless Web Scraping</p>
                             <p className="small text-muted mb-0">&copy; Copyrights. All rights reserved. <a className="text-primary links" href="#">Scrapify.com</a></p>
                         </div>
                         <div className="col-lg-6 col-md-6">
