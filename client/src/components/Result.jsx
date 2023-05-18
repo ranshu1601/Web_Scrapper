@@ -1,7 +1,8 @@
 import React from 'react'
 import Cards from './Cards'
 
-function Result({product,amazonData,flipkartData}) {
+
+function Result({ product, amazonData, flipkartData }) {
     // const data = [
     //     {
     //         img: 'https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/a/i/v/-original-imagfhu6bdzhnmkz.jpeg?q=70',
@@ -40,14 +41,15 @@ function Result({product,amazonData,flipkartData}) {
             <div className="container text-center">
                 <div className="row align-items-center justify-items-center">
                     <div className="col">
-                        {amazonData && (<Cards data={amazonData}/>)}
-                        
+                        {amazonData && (<Cards data={amazonData} />)}
+
                     </div>
                     <div className="col">
+
                         {flipkartData && (<Cards data={flipkartData} />)}
-                        
+
                     </div>
-                    
+
                     {/* <div className="col">
                         <Cards data={data} />
                     </div> */}
